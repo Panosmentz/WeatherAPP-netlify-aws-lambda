@@ -1,0 +1,73 @@
+body,
+html {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  min-width: fit-content;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: #31498c;
+  font-family: "Kanit";
+  color: white;
+}
+
+.container {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.temperature-description {
+  font-size: 30px;
+  margin: 10px;
+}
+.degree-section {
+  display: flex;
+  align-items: center;
+}
+
+.degree-section span {
+  margin: 5px;
+  font-size: 50px;
+}
+
+.degree-section h2 {
+  font-size: 70px;
+}
+
+.feels-like {
+  display: flex;
+}
+
+.apparent-temperature {
+  font-size: 20px;
+}
+#hourly {
+  text-align: center;
+  padding: 50px;
+  font-size: 30px;
+}
+.col {
+  align-items: center;
+  text-align: center;
+  border-top: 3px groove #000066;
+  border-bottom: 5px groove #000066;
+  border-radius: 28px;
+  box-shadow: 0 5px 10px #000066;
+}
+
+.img-fluid {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.precipitation-chance {
+  align-items: center;
+  text-align: center;
+  padding: 50px;
+}
