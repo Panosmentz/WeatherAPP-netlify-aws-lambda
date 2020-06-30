@@ -1,5 +1,5 @@
 # Weather APP
-> This is a web Application using the [darksky](https://darksky.net/) API. Written in Vanilla JS with the use of netlify's AWS Lambda functions.
+> This is a fully responsive web Application using the [DarkSky](https://darksky.net/) API. Written in Vanilla JS with the use of netlify's AWS Lambda functions.
 
 ## Table of contents
 * [Overview](#overview)
