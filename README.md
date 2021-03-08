@@ -5,7 +5,6 @@
 * [Overview](#overview)
 * [Screenshots](#screenshots)
 * [Technologies](technologies)
-* [Status](#status)
 * [Live-Demo](#live-demo)
 * [Contact](#contact)
 
@@ -21,9 +20,6 @@
 * CSS3.0
 * Bootstrap 4
 * AWS Lambdas
-
-## Status
-Project is: _Completed_
 
 ## Live-Demo
 [Live Demo](https://musing-kalam-1029f1.netlify.app/)
