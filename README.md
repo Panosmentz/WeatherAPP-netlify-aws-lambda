@@ -10,8 +10,7 @@
 * [Contact](#contact)
 
 ## Overview
-> Upon page load, user gets asked to allow their Geolocation. After this, a call to the DarkSky API get executed by a lambda function based on the user's longitude and latitude. A weather forecast is then displayed  
-> JSON data from the API's response is then displayed in the page. 
+> Upon page load, user gets asked to allow their Geolocation. After this, a call to the DarkSky API get executed by a lambda function based on the user's longitude and latitude. A weather forecast is then displayed 
 
 ## Screenshots
 ![Landing](https://github.com/Panosmentz/Projects-Screenshots/blob/master/weather%20app/weatherapp.PNG)
